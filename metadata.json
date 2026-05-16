@@ -1,0 +1,8 @@
+{
+  "name": "TeamTask Pro",
+  "description": "A comprehensive team task management platform with role-based access control, project tracking, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
